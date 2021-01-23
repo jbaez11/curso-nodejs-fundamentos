@@ -4,7 +4,7 @@
 
 
 //enviar por consola variable de entorno = $env:NOMBRE="Carlos"
-let nombre = process.env.NOMBRE || 'sin nombre';
+let nombre = process.env.APELLIDO || 'sin nombre';
 
 console.log('hola '+nombre);
 
