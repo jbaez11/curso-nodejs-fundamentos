@@ -1,4 +1,4 @@
 import modulo from './modulo.mjs';
 
 modulo.saluda();
-console.log(modulo.prop1)
+console.log(modulo.prop1);
